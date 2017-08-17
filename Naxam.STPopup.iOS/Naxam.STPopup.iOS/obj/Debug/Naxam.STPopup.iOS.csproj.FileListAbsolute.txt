@@ -1,5 +1,0 @@
-/Users/fleuverouge/Projects/__Naxam/__Bindings/STPopup/Naxam.STPopup.iOS/Naxam.STPopup.iOS/bin/Debug/Naxam.STPopup.iOS.dll
-/Users/fleuverouge/Projects/__Naxam/__Bindings/STPopup/Naxam.STPopup.iOS/Naxam.STPopup.iOS/bin/Debug/Naxam.STPopup.iOS.pdb
-/Users/fleuverouge/Projects/__Naxam/__Bindings/STPopup/Naxam.STPopup.iOS/Naxam.STPopup.iOS/obj/Debug/Naxam.STPopup.iOS.csproj.CoreCompileInputs.cache
-/Users/fleuverouge/Projects/__Naxam/__Bindings/STPopup/Naxam.STPopup.iOS/Naxam.STPopup.iOS/obj/Debug/Naxam.STPopup.iOS.dll
-/Users/fleuverouge/Projects/__Naxam/__Bindings/STPopup/Naxam.STPopup.iOS/Naxam.STPopup.iOS/obj/Debug/Naxam.STPopup.iOS.pdb
