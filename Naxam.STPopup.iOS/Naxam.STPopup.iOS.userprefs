@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{75269750-CB5F-4BB6-9944-631962E8AE3B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Naxam.STPopup.QuickStart/ViewController.cs">
+    <Files>
+      <File FileName="Naxam.STPopup.iOS/ApiDefinition.cs" Line="130" Column="1" />
+      <File FileName="Naxam.STPopup.iOS/Structs.cs" Line="11" Column="37" />
+      <File FileName="Naxam.STPopup.iOS/Properties/AssemblyInfo.cs" Line="35" Column="1" />
+      <File FileName="Naxam.STPopup.QuickStart/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Naxam.STPopup.QuickStart/ViewController.cs" Line="28" Column="97" />
+      <File FileName="Naxam.STPopup.QuickStart/ViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="Naxam.STPopup.QuickStart/PopupVC.cs" Line="52" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Naxam.STPopup.QuickStart PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3A083D3C-A5FF-4D67-9727-BCA734C3E37E">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Naxam.STPopup.QuickStart>
+</Properties>

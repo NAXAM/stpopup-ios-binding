@@ -1,0 +1,8 @@
+/Users/fleuverouge/Projects/__Naxam/__Bindings/STPopup/Naxam.STPopup.iOS/Naxam.STPopup.QuickStart/bin/iPhoneSimulator/Debug/Naxam.STPopup.QuickStart.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.12.0.18/lib/mono/Xamarin.iOS/mscorlib.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.12.0.18/lib/mono/Xamarin.iOS/../../32bits/Xamarin.iOS.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.12.0.18/lib/mono/Xamarin.iOS/System.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.12.0.18/lib/mono/Xamarin.iOS/Mono.Security.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.12.0.18/lib/mono/Xamarin.iOS/System.Xml.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.12.0.18/lib/mono/Xamarin.iOS/System.Core.dll
+/Users/fleuverouge/Projects/__Naxam/__Bindings/STPopup/Naxam.STPopup.iOS/Naxam.STPopup.iOS/bin/Debug/Naxam.STPopup.iOS.dll

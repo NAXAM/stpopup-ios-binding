@@ -1,0 +1,12 @@
+/Users/fleuverouge/Projects/__Naxam/__Bindings/STPopup/Naxam.STPopup.iOS/Naxam.STPopup.QuickStart/bin/iPhoneSimulator/Debug/Naxam.STPopup.QuickStart.exe
+/Users/fleuverouge/Projects/__Naxam/__Bindings/STPopup/Naxam.STPopup.iOS/Naxam.STPopup.QuickStart/bin/iPhoneSimulator/Debug/Naxam.STPopup.QuickStart.pdb
+/Users/fleuverouge/Projects/__Naxam/__Bindings/STPopup/Naxam.STPopup.iOS/Naxam.STPopup.QuickStart/bin/iPhoneSimulator/Debug/Naxam.STPopup.iOS.dll
+/Users/fleuverouge/Projects/__Naxam/__Bindings/STPopup/Naxam.STPopup.iOS/Naxam.STPopup.QuickStart/bin/iPhoneSimulator/Debug/Naxam.STPopup.iOS.pdb
+/Users/fleuverouge/Projects/__Naxam/__Bindings/STPopup/Naxam.STPopup.iOS/Naxam.STPopup.QuickStart/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/fleuverouge/Projects/__Naxam/__Bindings/STPopup/Naxam.STPopup.iOS/Naxam.STPopup.QuickStart/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/fleuverouge/Projects/__Naxam/__Bindings/STPopup/Naxam.STPopup.iOS/Naxam.STPopup.QuickStart/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/fleuverouge/Projects/__Naxam/__Bindings/STPopup/Naxam.STPopup.iOS/Naxam.STPopup.QuickStart/obj/iPhoneSimulator/Debug/optimized/
+/Users/fleuverouge/Projects/__Naxam/__Bindings/STPopup/Naxam.STPopup.iOS/Naxam.STPopup.QuickStart/obj/iPhoneSimulator/Debug/Naxam.STPopup.QuickStart.csprojResolveAssemblyReference.cache
+/Users/fleuverouge/Projects/__Naxam/__Bindings/STPopup/Naxam.STPopup.iOS/Naxam.STPopup.QuickStart/obj/iPhoneSimulator/Debug/Naxam.STPopup.QuickStart.csproj.CoreCompileInputs.cache
+/Users/fleuverouge/Projects/__Naxam/__Bindings/STPopup/Naxam.STPopup.iOS/Naxam.STPopup.QuickStart/obj/iPhoneSimulator/Debug/Naxam.STPopup.QuickStart.exe
+/Users/fleuverouge/Projects/__Naxam/__Bindings/STPopup/Naxam.STPopup.iOS/Naxam.STPopup.QuickStart/obj/iPhoneSimulator/Debug/Naxam.STPopup.QuickStart.pdb

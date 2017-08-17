@@ -1,0 +1,39 @@
+# Version: 10.12.0.18 (d15-3: 4a279c9a)
+# [first argument, ignore] # --cache
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.12.0.18/lib/mtouch/mtouch.exe \
+	/Users/fleuverouge/Projects/__Naxam/__Bindings/STPopup/Naxam.STPopup.iOS/Naxam.STPopup.QuickStart/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--sim \
+	/Users/fleuverouge/Projects/__Naxam/__Bindings/STPopup/Naxam.STPopup.iOS/Naxam.STPopup.QuickStart/bin/iPhoneSimulator/Debug/Naxam.STPopup.QuickStart.app \
+	--executable \
+	Naxam.STPopup.QuickStart \
+	--debug \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	10.3 \
+	--targetver \
+	10.3 \
+	--aot-options=-O=-float32 \
+	--http-message-handler=HttpClientHandler \
+	"--abi=i386,x86_64" \
+	--symbollist \
+	/Users/fleuverouge/Projects/__Naxam/__Bindings/STPopup/Naxam.STPopup.iOS/Naxam.STPopup.QuickStart/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r \
+	/Users/fleuverouge/Projects/__Naxam/__Bindings/STPopup/Naxam.STPopup.iOS/Naxam.STPopup.iOS/bin/Debug/Naxam.STPopup.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Users/fleuverouge/Projects/__Naxam/__Bindings/STPopup/Naxam.STPopup.iOS/Naxam.STPopup.iOS/bin/Debug/Naxam.STPopup.iOS.dll \
+	--target-framework \
+	"Xamarin.iOS,v1.0" \
+	/Users/fleuverouge/Projects/__Naxam/__Bindings/STPopup/Naxam.STPopup.iOS/Naxam.STPopup.QuickStart/bin/iPhoneSimulator/Debug/Naxam.STPopup.QuickStart.exe \
